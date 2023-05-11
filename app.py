@@ -43,7 +43,7 @@ def ask_ai():
         
 os.environ["OPENAI_API_KEY"] = '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'
 
-construct_index("data")
+construct_index("/home/ubuntu/docs/data")
 
 
         
