@@ -41,7 +41,7 @@ def ask_ai():
         response = index.query(query)
         print(response)
         
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = ''
 
 construct_index("/home/ubuntu/docs/data")
 
