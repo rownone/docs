@@ -1,0 +1,23 @@
+Interviewer: Can you introduce yourself and give us an overview of RealtyDao?
+
+Interviewee: Hi, I’m John and I work with RealtyDao. RealtyDao is a decentralized holding and development platform for digital native assets (DNA) on the blockchain. We focus on acquiring and attracting premium digital assets and cryptocurrency pledges to build an all-digital network of streamlined assets and tools that compress time and increase value through utility and distribution synergies. Our goal is to build a sustainable network of relevant assets for the appreciation of time and resources against other opportunities like ETC, BTC. One of our core offerings is the ability to tokenize assets through our ESH protocol. By tokenizing assets, we can create liquidity for non-liquid assets, such as new TLDs or domain assets.
+
+Interviewer: Can you explain what asset tokenization is and how it works within RealtyDao?
+
+Interviewee: Sure. Asset tokenization refers to the act of turning the ownership of a real-world item into a digital token. In this case, we use our ESH protocol. This can be done in various ways, but all result in the legally-upheld bridge between the physical asset (real estate property, vehicle, gold, etc.) and its representative token. A token is a transferable unit of something. Deeds, titles, and certificates are all traditional versions of a “token,” a symbol or item that represents something else. When you suggest a DNA for marketplace inclusion, there are two things that will happen in the DAO governance. You instantly create liquidity for your DNA whether it's a new TLD by the Handshake protocol or a domain that you own, assuming RealtyDao accepts your asset and valuation. Token holders can vote on proposals and acceptance.
+
+Interviewer: Can you explain how RealtyDao uses programmatic interaction governance to increase the value of ESH token?
+
+Interviewee: Sure. Our VNOC tokenization platform uses a programmatic interaction protocol that ultimately increases the value of your ESH token over verified DNA transactions and interactions. This ESH token value will increase as time goes by with a 1-1 bonding curve. Getting in early gives you more voting weight in the future direction of RealtyDao.
+
+Interviewer: How can users participate in voting for DNA tokenization?
+
+Interviewee: Joining the RealtyDao community gives you rights to participate in community voting for DNA's that you want to tokenize, develop or liquidate. Perhaps you have an interest in owning a piece of this DNA but as of the moment, it was not tokenized by the owner. Participating in voting for the specific DNA will move it to the ranks of what asset will be tokenized first.
+
+Interviewer: Can you explain the RDAO Liquidity Mining Program?
+
+Interviewee: Sure. RealtyDao has invoked an RDAO Liquidity Mining Program on specific DEFI platforms allowing you to mine RDAO tokens by locking in USDT/ETH/DAI/BTC using your favorite wallet. The initial phase is using the upgraded MetaMask wallet with near future plans to incorporate other wallet solutions. The stakeholders will have a percentage of the pool and the equivalent RDAO tokens to use within the platform, providing they will not trade their RDAO tokens anytime within the 1 year lock up period. RDAO has various lock up periods and is spread out so liquidity market makers are in check with growth resource utilization. Initially, it will be available on UNISWAP with RDAO/ETH and RDAO/BTC, and later on, we plan to move on to other platforms such as Balancer.
+
+Interviewer: What protocols does RealtyDao use?
+
+Interviewee: RealtyDao is an aggregation of several smart protocols, including the Eshares protocol, Handshake Blockchain, Ethereum Blockchain, DEFI protocols, VNOC OS and CONTRIB
