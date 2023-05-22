@@ -1,0 +1,51 @@
+Ronan T. Lee
+Senior Web Developer
+
+SUMMARY
+Over 18 years of programming and web development experience.
+Strong debugging and troubleshooting skills.
+Experience in developing blockchain applications using Ethereum and Handshake.
+
+WORK EXPERIENCE
+Senior Web Developer –    Zipsite.net                                   May 2010 – Present 
+• Led development of blockchain-integrated web applications.
+• Created and deployed various contracts, including Non-Fungible Tokens (NFT), ERC20 Fungible Tokens, Lotteries, Voting systems, Airdrops, and Token Sales on Ethereum and Binance networks.
+• Developed diverse website frameworks such as Leads, Bids, Eservice, Forums, For Sale platforms, Help Desks, Surveys, Redirects, and Wordpress websites, deployed across over 20,000 domains.
+• Designed and implemented Web Scraper add-ons for Firefox and Chrome.
+• Constructed Widget tools to enhance lead management and acquisition for company websites.
+• Developed and deployed APIs using serverless compute service with AWS Lambda functions.
+• Built a Task Manager application to facilitate efficient project task management and updates for employees.
+• Created an Autoresponder application for updating and sending emails to leads obtained from framework websites.
+• Managed acquired Top Level Domains from Handshake, developing a user interface for easy participation in bidding and updating records.
+Web Developer – Scanpointusa.com– April 2014 – September 2014
+• Developed an Easy Admin web application using C#.NET for the server-side and ASP.NET MVC for the client-side, enabling efficient management of company documents and records.
+• Implemented Web Services to retrieve and update server-side data.
+Software Engineer    –     A5 Com Inc.               March 2008 – January 2010 
+• Developed front-end websites using Ext JS framework.
+• Conducted QA testing for assigned modules.
+• Contributed to planning and implementing the software product's process flow.
+Senior Programmer and Senior Analyst  – IThink Technologies Inc. March 2004 – February 2008
+• Developed web and window-based business projects based on client and system requirements as defined by the Project System Analyst.
+• Collaborated with teams of 3 to 5 members for each project.
+• Conducted QA testing for assigned modules.
+• Created dedicated database tables for each assigned module.
+• Handled deployment, installation, maintenance, and provided technical support on client sites.
+Computer Graphics Operator  –  Nakayama Technology Corporation    2003
+
+• Edited house and building images, adjusting colors and textures, using Adobe Photoshop and Raku-raku Graphics software.
+
+SKILLS
+Languages and Tools
+•	Web3, Solidity, Reactjs, Nodejs, Truffle
+•	Php, Yii, CodeIgniter, Wordpress
+•	Javascript, Jquery, Ext Js, Html, XML, JSON, CSS
+•	Microsoft Visual C#.Net, ASP.Net, Visual Basic 6.0
+Blockchain
+•	Ethereum, Handshake
+Database
+•	MySQL, Microsoft SQL Server 2005/2000, Oracle 8i/10g, MS Access
+
+EDUCATION
+•	University of Mindanao - B.S. Computer  – March 2003
+•	Davao City National High School – March 1999
+•	Bucana Elementary School – March 1995 
